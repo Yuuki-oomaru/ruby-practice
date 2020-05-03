@@ -5,4 +5,5 @@ puts tall ["太郎"]
 
 subject=["算数","国語","理科","社会"]
 puts subject[2]
-puts test
+
+puts "hello"
